@@ -1,0 +1,32 @@
+08:43:03,152 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.115:5000
+08:43:03,152 werkzeug INFO [33mPress CTRL+C to quit[0m
+08:43:03,154 werkzeug INFO  * Restarting with stat
+08:43:03,251 werkzeug WARNING  * Debugger is active!
+08:43:03,330 werkzeug INFO  * Debugger PIN: 116-263-779
+08:46:35,283 werkzeug INFO  * Detected change in '/home/muhmmadmoizkhan/Downloads/day_4_best_practices_tools_common_pitfalls/app_that_doesnt_follow_best_practices/main.py', reloading
+08:46:35,301 werkzeug INFO  * Restarting with stat
+08:46:35,387 werkzeug WARNING  * Debugger is active!
+08:46:35,387 werkzeug INFO  * Debugger PIN: 116-263-779
+08:51:32,712 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.115:5000
+08:51:32,712 werkzeug INFO [33mPress CTRL+C to quit[0m
+08:51:32,713 werkzeug INFO  * Restarting with stat
+08:51:32,816 werkzeug WARNING  * Debugger is active!
+08:51:32,816 werkzeug INFO  * Debugger PIN: 116-263-779
+08:57:10,844 werkzeug INFO  * Detected change in '/home/muhmmadmoizkhan/Downloads/day_4_best_practices_tools_common_pitfalls/app_that_doesnt_follow_best_practices/main.py', reloading
+08:57:10,861 werkzeug INFO  * Restarting with stat
+09:03:13,80 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.115:5000
+09:03:13,80 werkzeug INFO [33mPress CTRL+C to quit[0m
+09:03:13,80 werkzeug INFO  * Restarting with stat
+09:03:13,187 werkzeug WARNING  * Debugger is active!
+09:03:13,187 werkzeug INFO  * Debugger PIN: 116-263-779
+12:29:34,459 werkzeug INFO  * Detected change in '/home/muhmmadmoizkhan/Downloads/day_4_best_practices_tools_common_pitfalls/app_that_doesnt_follow_best_practices/main.py', reloading
+12:29:34,483 werkzeug INFO  * Restarting with stat
